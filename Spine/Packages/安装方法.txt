@@ -1,0 +1,7 @@
+（两文件不要解压）
+Window菜单中
+Package Manager子菜单，弹出窗口
+点击左侧的+，选择子菜单add package from tarball...
+
+直接选择这两个压缩文件就添加进去了。（不要解压）
+
